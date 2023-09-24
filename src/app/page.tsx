@@ -30,7 +30,7 @@ export default function Home() {
             </p>
           </div>
           <div className='max-w-92 max-h-92 mx-auto py-12 overflow-hidden'>
-            <Image src={toon} className='rounded-full mx-auto'/>
+            <Image src={toon} alt='Avatar' className='rounded-full mx-auto'/>
           </div>
           <div className='text-3xl flex justify-center my-10'>
             <a href="https://www.linkedin.com/in/cody-buermann-116718188/" target='_blank'><BsLinkedin /></a>
@@ -62,7 +62,7 @@ export default function Home() {
           <h3 className='text-3xl text-center py-16'>Portfolio</h3>
           <div className='flex justify-center gap-10 mb-6'>
             <div>
-              <Image src={bos} className='mx-auto rounded shadow-lg' />
+              <Image src={bos} alt='Buermanns Outdoor Services' className='mx-auto rounded shadow-lg' />
             </div>
           </div>
         </section>
