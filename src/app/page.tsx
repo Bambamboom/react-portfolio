@@ -41,13 +41,13 @@ export default function Home() {
           <div>
             <h3 className='text-3xl text-center py-1'>Services I Offer</h3>
             <p className='text-md py-2 leading-8 text-gray-800'>
-              Since 2018 I have been involved in <span className='text-teal-500'>small business web development</span>. In the previous couple years I have been diversifying into <span className='text-teal-500'>UI development</span> with React, Tailwinds & Bootstrap. Whether you need a new website for your <span className='text-teal-500'>small business</span>, looking for a <span className='text-teal-500'>contractor</span> to contribute to a code base, or have other project opportunities you'd like to discuss, feel free to reach out with the <span className='text-teal-500'><a href='#contact'>contact</a></span> information below.
+              Since 2018 I have been involved in <span className='text-teal-500'>small business web development</span>. In the previous couple years I have been diversifying into <span className='text-teal-500'>UI development</span> with React, Tailwinds & Bootstrap. Whether you need a new website for your <span className='text-teal-500'>small business</span>, looking for a <span className='text-teal-500'>contractor</span> to contribute to a code base, or have other project opportunities you would like to discuss, feel free to reach out using the <span className='text-teal-500'><a href='#contact'>contact</a></span> information below.
             </p>
           </div>
           <div className='mb-6'>
             <div className='shadow-lg rounded p-10 pt-2'>
               <h3 className='text-2xl pt-8 text-teal-500'>Front-End Development</h3>
-              <p className='text-md py-2 leading-8 text-gray-800'>From basic web development to responsive UI layouts, Front-End Software Development is my bread & butter. No matter the project size, don't hesitate to reach out and share with me your project details and goals.</p>
+              <p className='text-md py-2 leading-8 text-gray-800'>From basic web development to responsive UI layouts, Front-End Software Development is my bread & butter. No matter the project size, do not hesitate to reach out and share with me your project details and goals.</p>
               <p className='py-3 text-xl text-teal-500'>Languages I use:</p>
               <div className='flex flex-wrap justify-between mx-1 gap-2'>
                 <p><FaReact className='text-3xl mx-auto'/>React.js</p>
