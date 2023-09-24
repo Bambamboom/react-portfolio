@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import {BsFillMoonStarsFill, BsLinkedin} from 'react-icons/bs';
-import {FaReact, FaHtml5, FaCss3, FaBootstrap} from 'react-icons/fa'
-import {SiTailwindcss, SiJavascript} from 'react-icons/si'
+import {FaReact, FaHtml5, FaCss3, FaBootstrap} from 'react-icons/fa';
+import {SiTailwindcss, SiJavascript} from 'react-icons/si';
 import Image from 'next/image';
 import toon from './img/toon.png';
 import bos from './img/bos.png';
